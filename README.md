@@ -56,7 +56,7 @@
 
 ## 👤 Author
 
-- Name: <Yashaswini Gogga>
+- Name: Yashaswini Gogga
 - Role: Junior Data Scientist – Assignment Submission
 
 ---
