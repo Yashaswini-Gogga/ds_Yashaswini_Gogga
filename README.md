@@ -38,9 +38,9 @@
 
 ## 📎 Important Links
 
-- 🔗 [Google Colab Notebook](<PASTE_YOUR_COLAB_LINK_HERE>)
-- 🔗 [GitHub Repo](<PASTE_YOUR_REPO_LINK_HERE>)
-- 📄 [ds_report.pdf](./ds_report.pdf)
+- 🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1qH4TY_n4cAuK7Pt2rJ-XQ75xnmj7Gg8F?usp=sharing)
+- 🔗 [GitHub Repo](https://github.com/Yashaswini-Gogga/ds_Yashaswini_Gogga)
+- 📄 [ds_report.pdf](https://docs.google.com/document/d/1AMdGwbFr1XZlSFyN58GP_4x_tBkwxGFFNJBe-ePHl30/edit?usp=sharing)
 
 ---
 
@@ -56,8 +56,7 @@
 
 ## 👤 Author
 
-- Name: <Your Full Name>
-- Email: <Your Email>
+- Name: <Yashaswini Gogga>
 - Role: Junior Data Scientist – Assignment Submission
 
 ---
